@@ -1,0 +1,188 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "projects": "",
+    "education": "Education - Media and Communication",
+    "work": "Work Experience",
+    "skills": "Skills"
+  },
+  "basics": {
+    "name": "Apurva Saini",
+    "email": "apurva1apurva@gmail.com",
+    "phone": "+33-766792090",
+    "website": "apurva.fr",
+    "location": {
+      "address": "Toulouse, France"
+    }
+  },
+  "education": [
+    {
+      "institution": "School of Communication, Manipal University",
+      "area": "Journalism and Communication Studies",
+      "studyType": "Bachelors (BAC+3)",
+      "gpa": "7.5 out of 10",
+      "location": "Manipal, Karnataka, India",
+      "startDate": "Jul 2014",
+      "endDate": "Dec 2018"
+    },
+    {}
+  ],
+  "work": [
+    {
+      "website": "",
+      "highlights": [
+        "Collected and covered local news items, clicked photographs for the reports",
+        "Analysed and edited news reports for print and online",
+        "Did design layout in Adobe InDesign",
+        "Mentored by the Head Editor because of my potential",
+        "Arranged all the novels that came in for book reviews"
+      ],
+      "company": "Millennium Post",
+      "position": "Newspaper Intern",
+      "location": "New Delhi, India",
+      "startDate": "Jun 2015",
+      "endDate": "Jul 2015"
+    },
+    {
+      "highlights": [
+        "Handled various clients' social media accounts",
+        "Monitored ongoing online campaigns and research new ideas",
+        "Prepared daily and weekly reports",
+        "Monitored press coverage",
+        null
+      ],
+      "company": "Perfect Relations",
+      "position": " Public Relations Intern",
+      "location": "New Delhi, India",
+      "startDate": "Dec 2015",
+      "endDate": "Dec 2015"
+    },
+    {
+      "highlights": [
+        "Edited audio-visual bytes, weather reports, montage/promo assembling",
+        "Created/Edited news packages and frames ready to air (live and scheduled)",
+        "Handled researching, writing, editing and video production etc",
+        "Learned unexpectedly - Hindi typing on QWERTY keyboard",
+        "Learned Adobe Premier Pro in university, applied that knowledge and learned Final Cut Pro",
+        ""
+      ],
+      "company": "TV News 100",
+      "position": "Production Intern",
+      "location": "New Delhi, India",
+      "startDate": "Jun 2016",
+      "endDate": "Jul 2016"
+    },
+    {
+      "highlights": [
+        "Worked on a WordPress based news website, SEO, in-article link intregration, tags",
+        "Reported/collected interest articles on business and economic area in ASEAN countries",
+        "Wrote and edited original articles of relevance",
+        "Edited English translation of Thai Audio Transcription",
+        "Updated daily morning curated links of economic news country-wise"
+      ],
+      "company": "AEC News Today",
+      "position": "Independent Journalist",
+      "location": "Phnom Penh, Cambodia",
+      "startDate": "Jan 2018",
+      "endDate": "Feb 2018"
+    },
+    {
+      "highlights": [
+        "Researched content for the startup's online quiz on Female Firsts worldwide",
+        "Made a spreadsheet list of first women in every field with categories including year, country, field, description and valid sources",
+        "Learned more about content strategy, brand identity, ideation, startup culture, community management",
+        "Analysed and formated the researched content into required quiz format needed"
+      ],
+      "company": "Cryptocurrency Startup",
+      "position": "Research and Idea consultant",
+      "location": "Goa, India",
+      "startDate": "Oct 2018",
+      "endDate": "Jan 2019"
+    },
+    {
+      "highlights": [
+        "Write articles on various categories - travel, lifestyle, blogging, poems",
+        "Edit articles according to format and stylebook provided",
+        "Optimise for tags, integrated links, SEO ",
+        "Stay upto date about global news, events in every field, research about new things",
+        "Learn more about everything, everyday!"
+      ],
+      "company": "Various Clients",
+      "position": "Freelance Content Writer",
+      "location": "Remote",
+      "startDate": "May 2018",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Did everything from scratch in teams on rotation every week",
+        "Research relevant news around the univeristy town, write, edit, publish",
+        "Design the draft newspaper's format in Adobe InDesign",
+        "Approach local businesses for sponsorship and design Adverts of them in Adobe Photoshop/Illustrator"
+      ],
+      "position": "Student Journalist",
+      "location": "Manipal Univeristy, India",
+      "company": "AM Plus (Campus Newspaper)",
+      "startDate": "2016",
+      "endDate": "2017"
+    },
+    {
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Ideation",
+        "Problem Solving",
+        "Creative Innovation",
+        "Research Strategy",
+        null
+      ],
+      "name": "Thinking Outside The Box"
+    },
+    {
+      "keywords": [
+        "Adobe Suite",
+        "Social Media Skills",
+        "Digital Strategy",
+        "CSR",
+        "Advertising and PR",
+        null
+      ],
+      "name": "Hard Skills"
+    },
+    {
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "awarder": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
